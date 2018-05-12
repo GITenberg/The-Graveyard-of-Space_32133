@@ -1,0 +1,51 @@
+_repo: The-Graveyard-of-Space_32133
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McCauley, Harold W. (Harold William)
+    aliases:
+    - McCauley, Harold William
+    - McCauley, H. W. (Harold William)
+    birthdate: 1913
+    deathdate: 1977
+    gutenberg_agent_id: '35054'
+    url: http://www.gutenberg.org/2009/agents/35054
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Thames, C. H.
+    - Chase, Adam
+    - Lesser, Milton
+    - Ridgway, Jason
+    - Wilder, Stephen
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: Ralph and Diane are a married pair of down-on-their-luck miners. Penniless
+  and without a solid plan, they're making their way toward a fresh start when their
+  spacecraft begins behaving strangely. Suddenly, they find themselves marooned in
+  a little-known void filled with one danger after another. Will they ever be able
+  to escape the graveyard of space?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Space flight -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Married people -- Fiction'
+title: The Graveyard of Space
+url: http://www.gutenberg.org/ebooks/32133
